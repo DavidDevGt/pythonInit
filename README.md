@@ -1,5 +1,4 @@
-# Python Projects
-### Davidwebgt
+## Python Projects
 
 Aquí podrás aprender Python y mejorar tus habilidades de programación de una manera divertida y práctica.
 
