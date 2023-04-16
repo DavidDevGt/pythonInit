@@ -13,9 +13,9 @@ Aquí podrás aprender Python y mejorar tus habilidades de programación de una 
 
 Para usar estos proyectos, primero debes clonar este repositorio en tu computadora. Para hacer esto, abre la terminal y escribe el siguiente comando:
 
-git clone https://github.com/TU_USUARIO/pythonInit.git
+git clone https://github.com/DavidDevGT/pythonInit.git
 
-Reemplaza "TU_USUARIO" con tu nombre de usuario de GitHub. Una vez que el repositorio se haya clonado correctamente, puedes abrir cualquiera de los proyectos en tu editor de código favorito y comenzar a trabajar en ellos.
+Una vez que el repositorio se haya clonado correctamente, puedes abrir cualquiera de los proyectos en tu editor de código favorito y comenzar a trabajar en ellos.
 
 ## Contribuir
 
