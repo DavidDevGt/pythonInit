@@ -1,4 +1,4 @@
-# Python para principiantes
+# Python Projects
 ### Davidwebgt
 
 Este es el repositorio "pythonInit" donde encontrarás varios proyectos de Python destinados a principiantes. Aquí podrás aprender Python y mejorar tus habilidades de programación de una manera divertida y práctica.
